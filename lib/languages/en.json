@@ -1,0 +1,51 @@
+{
+  "pages": {
+    "settings": {
+      "title": "Settings",
+      "language_title": "Language",
+      "preferences": "Preferences",
+      "account": "Account",
+      "notifications": "Notifications",
+      "messaging": "Messaging",
+      "walkietalkie": "Walkie-Talkie",
+      "pingalerts": "Ping Alerts",
+      "theme": "Theme",
+      "language": "Language",
+      "themesubtitle": "Light/Dark",
+      "languagesubtitle": "French/Francais"
+    },
+
+    "home": {
+      "title": "Home"
+    },
+
+    "profile": {
+      "title": "Title"
+    },
+
+    "login": {
+      "username": "Username",
+      "password": "Password",
+      "login_button": "LOGIN",
+      "not_a_member": "Not a Member? Signup"
+    }
+  },
+
+  "components": {
+    "bottom_nav": {
+      "home_label": "Home",
+      "tbd_label": "TBD",
+      "profile_label": "Profile"
+    },
+
+    "nav_drawer": {
+      "user_occupation": "Instructor",
+      "home_item_title": "Home",
+      "profile_item_title": "Profile",
+      "courses_item_title": "Courses",
+      "certifications_item_title": "Certifications",
+      "payments_item_title": "Payments",
+      "settings_item_title": "Settings"
+    }
+  }
+}

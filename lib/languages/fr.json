@@ -1,0 +1,51 @@
+{
+  "pages": {
+    "settings": {
+      "title": "Réglages",
+      "language_title": "Langue",
+      "preferences": "Préférences",
+      "account": "Compte",
+      "notifications": "Notifications",
+      "messaging": "Messagerie",
+      "walkietalkie": "Talkie-Walkie",
+      "pingalerts": "Alertes Ping",
+      "theme": "Thème",
+      "language": "Langue",
+      "themesubtitle": "Lumière/Foncé",
+      "languagesubtitle": "Francais/French"
+    },
+
+    "home": {
+      "title": "Maison"
+    },
+
+    "profile": {
+      "title": "Titre"
+    },
+
+    "login": {
+      "username": "Nom d'utilisateur",
+      "password": "Mot de passe",
+      "login_button": "CONNEXION",
+      "not_a_member": "Pas un membre? S'inscrire"
+    }
+  },
+
+  "components": {
+    "bottom_nav": {
+      "home_label": "Maison",
+      "tbd_label": "TBD",
+      "profile_label": "Profil"
+    },
+
+    "nav_drawer": {
+      "user_occupation": "Instructeur",
+      "home_item_title": "Maison",
+      "profile_item_title": "Profil",
+      "courses_item_title": "Cours",
+      "certifications_item_title": "Certificats",
+      "payments_item_title": "Paiements",
+      "settings_item_title": "Réglages"
+    }
+  }
+}
